@@ -1,7 +1,27 @@
-<h1 align="center">Hi 👋, I'm Setemi Loye</h1>
+<h2 align="center">Hi 👋, I'm Setemi Loye</h2>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **MERN**
+- I’m a passionate and curious frontend developer with a strong focus on building clean, interactive, and user-friendly web interfaces using React. I enjoy turning ideas into digital experiences and constantly learning new technologies to improve my craft.
+
+🚀 What I Do
+	•	🌐 Build responsive and accessible web applications
+	•	⚛️ Craft dynamic UIs using React, JavaScript, HTML, and CSS
+	•	🛠️ Explore full-stack development (currently diving into the MERN stack)
+	•	🤖 Interested in the intersection of AI and software development
+	•	📱 Learning iOS development and experimenting with Swift
+
+🧠 Always Learning
+
+I’m focused on right now:
+	•	Deepening my frontend skills with real-world projects
+	•	Mastering React ecosystem tools (Hooks, Context, Router)
+	•	Improving backend knowledge (Node.js & MongoDB)
+	•	Building a strong portfolio and getting hands-on industry experience
+
+✨ Fun Facts
+	•	I love solving real problems with tech
+	• I’m a fan of clean UI/UX and smooth user flows
+	• I enjoy exploring how technology can empower people and businesses
 
 - 👨‍💻 All of my projects are available at [setemil.github.io/portfolio](setemil.github.io/portfolio)
 
