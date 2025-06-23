@@ -14,21 +14,12 @@
 	<li>🤖 Interested in the intersection of AI and software development</li>
 </ul>
 <br/>
-
-
 I’m focused on right now:
 <ul>
-<li>Deepening my frontend skills with real-world projects</li>
-	<li>
-Mastering React ecosystem tools (Hooks, Context, Router)
-	</li>
-	<li>
-Improving backend knowledge (Express.js, Node.js & MongoDB)
-		
-	</li>
-<li>
-	Building a strong portfolio and getting hands-on industry experience
-</li>
+	<li>Deepening my frontend skills with real-world projects</li>
+	<li>Mastering React ecosystem tools (Hooks, Context, Router)</li>
+	<li>Improving backend knowledge (Express.js, Node.js & MongoDB)</li>
+	<li>Building a strong portfolio and getting hands-on industry experience</li>
 </ul>
 
 
@@ -41,7 +32,6 @@ Improving backend knowledge (Express.js, Node.js & MongoDB)
 <br/>
 
 - 👨‍💻 All of my projects are available at [setemil.github.io/portfolio](setemil.github.io/portfolio)
-<br/>
 
 - 📫 How to reach me **setemiloye@gmail.com**
 
